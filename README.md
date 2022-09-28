@@ -2,3 +2,4 @@
 Group repository of Group 7 for the Lab Assignment 7
 YuchenQi: Great!
 ZhenlinXu: Awesome!
+XinghaoLou: How to add file in to the branch? 
